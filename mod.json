@@ -1,3 +1,13 @@
 {
-
+  "displayName": "Reautomation",
+  "name": "reautomation",
+  "subtitle": "",
+  "description": "",
+  "minGameVersion": 158,
+  "version": "0.0.2",
+  "main": "reautomation.ReautomationMod",
+  "java": true,
+  "author": "Javin Ruskyll",
+  "repo": "Javinrus/ReautomationMod",
+  "hideBrowser": true
 }
