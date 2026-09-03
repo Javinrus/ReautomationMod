@@ -7,6 +7,9 @@ jobs:
   updateBuild:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+
     steps:
       - name: Checkout ReautomationMod
         uses: actions/checkout@v5
