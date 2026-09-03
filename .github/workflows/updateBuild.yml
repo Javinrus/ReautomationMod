@@ -49,6 +49,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes detected."
           else
-            git commit -m "Sync files from MindustryJavaModTemplate"
+            git commit -m "Update build files"
             git push
           fi
